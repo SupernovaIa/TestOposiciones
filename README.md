@@ -15,7 +15,6 @@ El caso práctico está enfocado en **contenido de oposiciones**, permitiendo la
 📁 TESTSOPOSICIONES
 │── 📁 src
 │   │── assistant.py    # Manejador de interacciones con OpenAI
-│── .env                # Variables de entorno (API Key de OpenAI)
 │── .gitignore          # Archivos a ignorar en el repositorio
 │── main.py             # Archivo principal (generación y consulta de tests)
 │── prueba.ipynb        # Notebook para pruebas y validaciones
